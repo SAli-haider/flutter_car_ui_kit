@@ -1,6 +1,6 @@
 # tesla_ui_kit
 
-A new Flutter project.
+Created a Flutter Tesla-inspired Car UI Kit featuring stunning animations and detailed car information display.
 
 ## Getting Started
 
